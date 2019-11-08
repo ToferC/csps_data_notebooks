@@ -12,7 +12,7 @@ Over the past two years, learning sessions have shifted increasingly from tradit
 
 Also, from 2018 to 2019, there has been increasing focus on transparency or explainability of AI & neural networks.
 
-## Outcomes
+## Chris' Learning Outcomes
 
 * Better understanding of state-of-the art tools and processes in explainable AI and identifying bias in AI/Machine Learning
 * Deeper understanding of CSPS data available ([Notebooks](https://github.com/ToferC/csps_data_notebooks))
