@@ -2,7 +2,7 @@
 
 ## The Open Data Science Conference (ODSC)
 
-ODSC West is one of the largest applied data science conferences in the world. Speakers include some of the core contributors to many open source tools, libraries, and languages. Focus is on learning about the latest AI & data science topics, tools, and languages from some of the best and brightest minds in the field.
+[ODSC West](https://odsc.com/california/schedule-2019/) is one of the largest applied data science conferences in the world. Speakers include some of the core contributors to many open source tools, libraries, and languages. Focus is on learning about the latest AI & data science topics, tools, and languages from some of the best and brightest minds in the field.
 
 ## Summary
 
