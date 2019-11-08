@@ -39,6 +39,7 @@ Also, from 2018 to 2019, there has been increasing focus on transparency or expl
 
 ## Resources
 
+* [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 * [Slides and Session Prerequisites](https://odsc.com/california/west-2019-prereqs/)
 
 
