@@ -15,7 +15,7 @@ Also, from 2018 to 2019, there has been increasing focus on transparency or expl
 ## Outcomes
 
 * Better understanding of state-of-the art tools and processes in explainable AI and identifying bias in AI/Machine Learning
-* Deeper understanding of CSPS data available
+* Deeper understanding of CSPS data available ([Notebooks](https://github.com/ToferC/csps_data_notebooks))
 * Connections with conference organizers and key speakers that can support digital upskilling in the digital academy
 * Practical experience & exposure to Neo4j graph databases and data analysis in Python/Pandas
 
@@ -37,12 +37,8 @@ Also, from 2018 to 2019, there has been increasing focus on transparency or expl
 * Accelerate AI/ML with Kubeflow
 * Community-Specific AI: Building Solutions for Any Audience
 
-## Work Completed
+## Resources
 
-* Analysis and recommendations based on CSPS datasets on:
-	* Courses & offerings
-	* Registrations
-	* Satisfaction surveys
-	* [Notebooks](https://github.com/ToferC/csps_data_notebooks)
+* [Slides and Session Prerequisites](https://odsc.com/california/west-2019-prereqs/)
 
 
