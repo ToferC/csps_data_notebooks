@@ -37,6 +37,10 @@ Also, from 2018 to 2019, there has been increasing focus on transparency or expl
 * Accelerate AI/ML with Kubeflow
 * Community-Specific AI: Building Solutions for Any Audience
 
+## Graph Pretty Picture
+
+![Graph](https://github.com/ToferC/csps_data_notebooks/blob/master/DF127730-A781-40A0-AEF0-2573BF08D91A.jpeg)
+
 ## Resources
 
 * [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
